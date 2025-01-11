@@ -34,6 +34,8 @@ main {
     backdrop-filter: blur(20px) brightness(0.7); /* Added blur effect */
     text-align: center;
     color: white;
+    font-family: 'Oxanium', Arial, sans-serif; /* Apply Oxanium font */
+    font-weight: 400;
 }
 
 .gallery .images {
@@ -71,6 +73,8 @@ main {
 footer {
     background: black;
     color: #fff;
+    font-family: 'Oxanium', Arial, sans-serif; /* Apply Oxanium font */
+    font-weight: 200;
     text-align: center; /* Horizontal centering */
     padding: 10px 0;
     position: fixed;
