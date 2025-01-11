@@ -16,9 +16,7 @@ header {
     /*background: black;*/
     color: #fff;
     font-size: 30px;
-    font-family: 'White Rabbit', Arial, sans-serif; /* Apply the White Rabbit font */
-    font-weight: normal;
-  font-style: normal;
+    font-family: 'Oxanium', Arial, sans-serif; /* Apply Oxanium font */
     padding: 10px 0;
     text-align: center;
 }
